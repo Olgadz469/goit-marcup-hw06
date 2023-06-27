@@ -1283,7 +1283,10 @@ flex-wrap: wrap;
  /*margin-left: 24px;*/
  margin: unset;
   }
+.footer-box-logo {
+  margin-bottom: unset;
 
+}
 .footer-logo {
   text-align: unset;
 }
@@ -1513,6 +1516,7 @@ flex-wrap: wrap;
   display: flex;
   align-items: baseline;
   flex-wrap: nowrap;
+  gap: unset;
 }
 
 .footer-box-logo {
